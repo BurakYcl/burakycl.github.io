@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Selection Sorting
+title: Red-Black Trees
 subtitle: ... or not to be?
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bubble Sort
+title: B-Trees
 subtitle: Excerpt from Soulshaping by Jeff Brown
 bigimg: /img/path.jpg
 ---
