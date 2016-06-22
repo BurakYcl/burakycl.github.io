@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B Trees 
+title: Nede olmuyon ?
 subtitle: Excerpt from Soulshaping by Jeff Brown
 bigimg: /img/path.jpg
 ---
