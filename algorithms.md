@@ -17,7 +17,7 @@ subtitle: :)
 * [Quick Sort](https://burakycl.github.io/2015-02-20-test-markdown/)  
 
 
-***
+
 
 #### Arama Algoritmaları 
 
