@@ -10,6 +10,10 @@ subtitle: :)
 
 * [_Bubble Sort_](https://burakycl.github.io/2015-02-20-test-markdown/)  
 
+* [_Selection Sort_](https://burakycl.github.io/2015-02-20-test-markdown/)  
+
+* [_Insertion Sort_](https://burakycl.github.io/2015-02-20-test-markdown/)  
+
 * [_Radix Sort_](https://burakycl.github.io/2015-02-20-test-markdown/)  
 
 * [_Merge Sort_](https://burakycl.github.io/2015-01-19-soccer/)
