@@ -25,7 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   Ana Sayfa: "http://burakycl.github.io"
   Blog Yazıları:
-    - Algoritmalar: "http://deanattali.com/beautiful-jekyll/"
+    - Algoritmalar: "algorithms"
     - Veri Yapıları: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Hakkımda: "aboutme"
