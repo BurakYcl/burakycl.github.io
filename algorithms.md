@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Algoritmalar
-subtitle: Why you'd want to go on a date with me
+subtitle: :)
 ---
 
 #### Sıralama Algoritmaları 
