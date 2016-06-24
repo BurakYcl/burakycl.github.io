@@ -70,8 +70,7 @@ subtitle: :)
 
 * [_Regular Expressions_](https://burakycl.github.io/2015-02-20-test-markdown/) 
 
-
-
+ 
 
 ####  Data Compression
 
