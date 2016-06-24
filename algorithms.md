@@ -12,7 +12,7 @@ subtitle: Why you'd want to go on a date with me
 
 * [Merge Sort](https://burakycl.github.io/2015-01-19-soccer/)
 
-- - -
+***
 
 #### Arama Algoritmaları 
 
