@@ -4,7 +4,7 @@ title: Algoritmalar
 subtitle: :)
 ---
 
-#### Sıralama Algoritmaları 
+#### _Sıralama Algoritmaları_ 
 
 ---
 
@@ -19,7 +19,7 @@ subtitle: :)
 
 
 
-#### Arama Algoritmaları 
+#### _Arama Algoritmaları_ 
 
 ---
 
