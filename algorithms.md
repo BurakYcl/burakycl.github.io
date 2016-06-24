@@ -8,6 +8,6 @@ subtitle: Why you'd want to go on a date with me
 
 ---
 
-* [bubıl sort](https://burakycl.github.io/2015-02-20-test-markdown/)  
+* [Bubble Sort](https://burakycl.github.io/2015-02-20-test-markdown/)  
 
-* [mörc sort](https://burakycl.github.io/2015-01-19-soccer/)
+* [Merge Sort](https://burakycl.github.io/2015-01-19-soccer/)
