@@ -42,6 +42,8 @@ subtitle: :)
 
 * [_B Trees_](https://burakycl.github.io/2015-02-20-test-markdown/)  
 
+* [_Tries_](https://burakycl.github.io/2015-02-20-test-markdown/)
+
 
 
 #### Grafikler
@@ -55,16 +57,6 @@ subtitle: :)
 * [_Directed Graphs_](https://burakycl.github.io/2015-02-20-test-markdown/)  
 
 * [_Shortest Path_](https://burakycl.github.io/2015-02-20-test-markdown/) 
-
-
-
-#### Tries - Substring Search
-
----
-
-* [_Tries_](https://burakycl.github.io/2015-02-20-test-markdown/)
-
-* [_Substring Search_](https://burakycl.github.io/2015-02-20-test-markdown/) 
 
 
 
