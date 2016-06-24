@@ -6,7 +6,7 @@ subtitle: :)
 
 #### Sıralama Algoritmaları 
 
-=====
+===
 
 * [_Bubble Sort_](https://burakycl.github.io/2015-02-20-test-markdown/)  
 
