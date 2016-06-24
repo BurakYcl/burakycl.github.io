@@ -4,17 +4,17 @@ title: Algoritmalar
 subtitle: :)
 ---
 
-#### _Sıralama Algoritmaları_ 
+#### Sıralama Algoritmaları 
 
 ---
 
-* [Bubble Sort](https://burakycl.github.io/2015-02-20-test-markdown/)  
+* [_Bubble Sort_](https://burakycl.github.io/2015-02-20-test-markdown/)  
 
-* [Radix Sort](https://burakycl.github.io/2015-02-20-test-markdown/)  
+* [_Radix Sort_](https://burakycl.github.io/2015-02-20-test-markdown/)  
 
-* [Merge Sort](https://burakycl.github.io/2015-01-19-soccer/)
+* [_Merge Sort_](https://burakycl.github.io/2015-01-19-soccer/)
 
-* [Quick Sort](https://burakycl.github.io/2015-02-20-test-markdown/)  
+* [_Quick Sort_](https://burakycl.github.io/2015-02-20-test-markdown/)  
 
 
 
