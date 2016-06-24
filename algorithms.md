@@ -46,7 +46,7 @@ subtitle: :)
 
 
 
-#### Grafikler
+#### Çizgeler
 
 ---
 
